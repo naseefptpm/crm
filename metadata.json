@@ -1,0 +1,6 @@
+{
+  "name": "CRM Dashboard",
+  "description": "High-performance CRM contact management dashboard with real-time search, metrics analytics, full CRUD operations with React Hook Form and Zod validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
